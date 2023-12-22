@@ -3,6 +3,8 @@ body {
 }
 .book-library {
 background-color: #ffffff;
+	width: 300px;
+	padding: 10px;
 }
 .author {
 	color: #777777;
