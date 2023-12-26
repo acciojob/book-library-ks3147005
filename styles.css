@@ -12,4 +12,8 @@ background-color: #ffffff;
 .price {
 	background-color: #2ecc71;
 }
-
+img{
+	width: 100px;
+	display:flex;
+	justify-content:center;
+}
